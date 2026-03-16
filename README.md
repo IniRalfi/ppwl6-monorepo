@@ -102,4 +102,4 @@ Project ini menggunakan **Workspace Protocol** (`workspace:*`) untuk menghubungk
 
 ---
 
-Made by [rafli](https://github.com/rafli)
+Made by [rafli](https://github.com/iniralfi)
