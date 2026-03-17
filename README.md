@@ -14,7 +14,7 @@ Sebuah boilerplate monorepo modern yang dirancang untuk performa tinggi dan peng
 
 - **React 19**: Versi terbaru dengan fitur concurrent rendering.
 - **Vite 8**: Build tool generasi terbaru yang sangat cepat.
-- **Tailwind CSS 4**: Engine CSS tercanggih dengan performa optimal.
+- **Tailwind CSS 4**: Engine CSS tercanggih dengan performa optimal
 - **Shadcn UI & Radix UI**: Komponen UI yang aksesibel dan mudah di-custom.
 - **Geist Font**: Tipografi premium dari Vercel.
 
